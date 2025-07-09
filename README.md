@@ -5,12 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
 <h3 align="center">A Passionate Software Developer & Tech Enthusiast</h3>
 
----
 
-💻 I'm a Software Developer with hands-on experience in building scalable, API-driven web applications and real-time dashboards using AngularJS, Django, and REST frameworks.
-🔧 I enjoy solving real-world problems through clean, maintainable code and continuously expanding my skills in full-stack development and system integration.
-
----
 
 
 👋 Hi, I'm Rohit Yadav — a Software Developer based in Noida, India.
