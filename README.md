@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+  <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 <!--
 **Rohityadav040701/Rohityadav040701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
