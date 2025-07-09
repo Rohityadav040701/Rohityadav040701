@@ -12,6 +12,21 @@
 
 ---
 
+
+👋 Hi, I'm Rohit Yadav — a Software Developer based in Noida, India.
+
+🚀 I specialize in building scalable, user-focused web applications using AngularJS, Django, and RESTful APIs. Currently working at Cinntra Info Tech Pvt. Ltd., where I develop dynamic dashboards, custom CRM modules, and backend integrations that solve real-world business problems.
+
+💡 I'm passionate about clean code, efficient architecture, and continuously learning new technologies. I love automating workflows, integrating APIs, and building full-stack projects that make an impact.
+
+📦 Tech Stack: Python | AngularJS | Django | DRF | SQL | JavaScript | HTML | CSS | Git
+
+📂 Explore my pinned repositories to see some of my recent projects in action!
+
+🔗 Let's connect:
+[LinkedIn](https://www.linkedin.com/in/rohit-yadav-5b3431216/) | [LeetCode](https://leetcode.com/u/apnacoderohit0407/)
+
+
 ### 🧑‍💻 About Me
 
 - 🌱 I’m currently learning **Full Stack Python Development**, **AIML**, and **DSA**
