@@ -1,5 +1,27 @@
   <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-  ## Hi there 👋
+
+###
+
+<h1 align="center">Hi 👋, I'm Rohit Yadav</h1>
+<h3 align="center">A Passionate Software Developer & Tech Enthusiast</h3>
+
+---
+
+💻 I'm a Software Developer with hands-on experience in building scalable, API-driven web applications and real-time dashboards using AngularJS, Django, and REST frameworks.
+🔧 I enjoy solving real-world problems through clean, maintainable code and continuously expanding my skills in full-stack development and system integration.
+
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 I’m currently learning **Full Stack Python Development**, **AIML**, and **DSA**
+- 🔭 I’m working on: `AI ChatBoat`, `OCR-Based Smart Form Filler with ChatGPT Integration`, `Acne Detection Using Deep Learning`
+- 🎯 Focused on writing clean, maintainable, and scalable code
+- 💬 Ask me about **C++**, **Python**, **AngularJS**, or anything tech!
+- 📫 Reach me at: **rohityadavk2024@gmail.com**
+- 🌐 Portfolio: [Portfolio](https://your-portfolio-link.com)
+
+---
 
 
 <!--
